@@ -6,7 +6,7 @@ This repository demonstrates a robust, production-grade CI/CD pipeline for a Spr
 
 ## Pipeline Architecture
 
-![CI/CD Pipeline Overview](/home/black/Desktop/project/Untitled Diagram.drawio.png)
+![image alt](https://github.com/Zayn-Mohamad/springboot-devops-pipeline/blob/e873dfc6b0a22af15ba91b8fcec98fd4c1ccfaca/Untitled%20Diagram.drawio(2).png)
 
 ---
 
